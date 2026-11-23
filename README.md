@@ -25,4 +25,4 @@ I completed my B.Tech in Computer Science and Engineering from PES University in
   
 what mnap(2) ?
 
-it's just like mmap(2) but it's for taking a nap's instead of mapping memory.
+it's just like mmap(2) but it's for taking nap's instead of mapping memory.
