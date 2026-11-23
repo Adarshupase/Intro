@@ -23,3 +23,5 @@ I completed my B.Tech in Computer Science and Engineering from PES University in
 - git for personal projects I also know a bit of svn.
 
   
+what mnap(2) ?
+it's just like mnap but it's for taking a nap instead of mapping memory.
