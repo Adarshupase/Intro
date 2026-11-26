@@ -1,10 +1,10 @@
-# Here are some memes I made and some random images i took when I was bored
+### Here are some memes I made and some random images i took when I was bored
 
 
 *You have understood the concept if you can make a 
 meme out of it*
 
-- Don't know who 
+--Don't know who 
 
 These  memes I made when was learning something and was not interested in taking notes.
 
@@ -18,10 +18,10 @@ sql meme
 
 ![sql](/images/sqlmeme.jpg)
 
-Doggo
+Doggo 
 ![doggo](/images/doggo.jpg)
 
-Doggos
+Doggos sheltering themselves from Bengaluru rain
 ![doggos](/images/doggos.jpg)
 
 I was just trying out desmos and found this one nice converging sum.
