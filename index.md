@@ -13,8 +13,7 @@ why learn in the era of powerful llm's check this YouTube video ?
 
 ![Terry](images/terry_bird_quote.jpg)
 
-## Blogs 
-
-
+## Blogs
+[Memes and random() images](/memes_and_images)
 what does *mnap(2)* mean ? It's just like *mmap(2)* system call but it's for taking nap's instead of mapping memory.
 
