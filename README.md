@@ -16,7 +16,7 @@ This video and the quote from terry pretty much sums up why I'm still learning n
 Recently I've been reading about linkers and loaders. and how the compiler drivers turn your source code into machine code,  different stages involved. Once I'm finished with this I would like to read more about instruction pipeling and branch prediction. 
 
 Why ?
-I just find these things interesting that's all. I used to watch Terry's streams when I was in my 2nd year in University I didn't know what he was talking about. Now i can finally say i know what Terry was talking about like 50% of it. Like when Terry said temple os doesn't use paging. I was not sure what he was talking about. Now i know what paging is I can appreciate the work he has done. Life is about learning things if you don't understand something give enough time to learn and then comes back to it. 
+I just find these things interesting that's all. I used to watch Terry's streams when I was in my 2nd year in University I didn't know what he was talking about. Now i can finally say i know what Terry was talking about like 50% of it. Like when Terry said temple os doesn't use paging. I was not sure what he was talking about. Now i know what paging is I can appreciate the work he has done. Like you need to understand something to appreciate it in the first place. That's my motivation to learn new things. 
 
 
 it's just like mmap(2) but it's for taking nap's instead of mapping memory.
