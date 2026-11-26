@@ -12,6 +12,7 @@ I completed my B.Tech in Computer Science and Engineering from PES University in
 - Linters and Refactoring.
 - Information and Network security.
 
+![Terry](images/Terry_bird_quote.jpg)
 **My projects**
 - _core_ a refactoring engine with tree sitter. where each edit/refactor is an operation that modifies the code with syntax tree in mind. Each refactor can be roll backed until the last refactor because each command is a reversible function.
 - _TLD predictor_ a machine learning project that predicts the top level domain of a website given it's name and optionally the category it comes under. This uses logical regression and TF-IDF algorithm.
