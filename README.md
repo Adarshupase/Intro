@@ -4,8 +4,6 @@
 
 I completed my B.Tech in Computer Science and Engineering from PES University in 2026.
 
-**Interests**
-
 
 This video and the quote from terry pretty much sums up why I'm still learning new stuff. When llm's already know so much more than you.
 
@@ -14,18 +12,11 @@ This video and the quote from terry pretty much sums up why I'm still learning n
 
 
 ![Terry](images/terry_bird_quote.jpg)
-**My projects**
-- _core_ a refactoring engine with tree sitter. where each edit/refactor is an operation that modifies the code with syntax tree in mind. Each refactor can be roll backed until the last refactor because each command is a reversible function.
-- _TLD predictor_ a machine learning project that predicts the top level domain of a website given it's name and optionally the category it comes under. This uses logical regression and TF-IDF algorithm.
 
-**Things i use and like**
-- mostly i use gcc for compiling .I also tried tcc it's insane how fast it is for small programs.
-- Ubuntu. Bloat but works fine.
-- gdb for debugging.
-- emacs and vi. But mostly emacs because of gui. I keep forgetting vi key strokes.
-- git for personal projects I also know a bit of svn.
+Recently I've been reading about linkers and loaders. and how the compiler drivers turn your source code into machine code,  different stages involved. Once I'm finished with this I would like to read more about instruction pipeling and branch prediction. 
 
-  
-what mnap(2) ?
+Why ?
+I just find these things interesting that's all. I used to watch Terry's streams when I was in my 2nd year in University I didn't know what he was talking about. Now i can finally say i know what Terry was talking about like 50% of it. Like when Terry said temple os doesn't use paging. I was not sure what he was talking about. Now i know what paging is I can appreciate the work he has done. Life is about learning things if you don't understand something give enough time to learn and then comes back to it. 
+
 
 it's just like mmap(2) but it's for taking nap's instead of mapping memory.
