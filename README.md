@@ -2,7 +2,7 @@
 ![Pepe](images/917995fcff23554d0cb0959dac27ec3c.jpg)
 **Education**
 
-I completed my B.Tech Computer Science from PES University in 2026. 
+I completed my B.Tech Computer Science from PES University this year.
 I worked as an intern and now as a full time employee in HPE Networking.
 For the past 8 months I've been working on Junos OS which is a networking operating system running on many juniper devices. it was derived from FreeBSD.
 
