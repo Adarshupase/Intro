@@ -8,14 +8,10 @@ For the past 8 months I've been working on Junos OS which is a networking operat
 
 I'm interested in systems programming, history of computer science and math.
 
-why learn ?
-
-[yt link](https://youtu.be/tYOlvdNq9UI?si=jDXUv_CFGcxg8Gph)
-
-
+why learn in the era of powerful llm's check this YouTube video ?
+[why learn](https://youtu.be/tYOlvdNq9UI?si=jDXUv_CFGcxg8Gph)
 
 ![Terry](images/terry_bird_quote.jpg)
 
 
-
-it's just like mmap(2) but it's for taking nap's instead of mapping memory.
+what does *mnap(2)* mean ? It's just like *mmap(2)* system call but it's for taking nap's instead of mapping memory.
