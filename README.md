@@ -1,5 +1,5 @@
 
-![Pepe](images/917995fcff23554d0cb0959dac27ec3c.jpeg)
+![Pepe](images/917995fcff23554d0cb0959dac27ec3c.jpg)
 **Education**
 
 I completed my B.Tech in Computer Science and Engineering from PES University in 2026.
