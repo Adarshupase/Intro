@@ -6,11 +6,13 @@ I completed my B.Tech in Computer Science and Engineering from PES University in
 
 **Interests**
 
-- Operating Systems, File Systems internals.
-- Programming language design.
-- Web Programming.
-- Linters and Refactoring.
-- Information and Network security.
+Some people will tell you it's pointless to learn new things in the "era of AI". I agree "to some extent". 
+This video pretty much puts reflects why I'm still learning new things.
+
+[yt link](https://youtu.be/tYOlvdNq9UI?si=jDXUv_CFGcxg8Gph)
+
+I will just drop one of my favorite quotes from Terry, The bird here is us trying to figure out how the system is booting, why is that process crashing. Can ai do that for you ? yes. So should we as a bird just give up or keep staring at it long enough trying to figure it out ?
+I really don't know.
 
 ![Terry](images/terry_bird_quote.jpg)
 **My projects**
